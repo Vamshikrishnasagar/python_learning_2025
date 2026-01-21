@@ -1,0 +1,13 @@
+21-Jan-26 11:14:16 - INFO - Dice game started
+21-Jan-26 11:14:20 - INFO - Apple rolled 3, total = 3
+21-Jan-26 11:14:21 - INFO - Ball rolled 4, total = 4
+21-Jan-26 11:14:21 - INFO - Apple rolled 3, total = 6
+21-Jan-26 11:14:22 - INFO - Ball rolled 6, total = 10
+21-Jan-26 11:14:23 - INFO - Apple rolled 5, total = 11
+21-Jan-26 11:14:23 - INFO - Ball rolled 1, total = 11
+21-Jan-26 11:14:24 - INFO - Apple rolled 1, total = 12
+21-Jan-26 11:14:24 - INFO - Ball rolled 5, total = 16
+21-Jan-26 11:14:25 - INFO - Apple rolled 4, total = 16
+21-Jan-26 11:14:26 - INFO - Ball rolled 4, total = 20
+21-Jan-26 11:14:26 - INFO - Winner: Ball
+21-Jan-26 11:14:26 - INFO - Dice game ended
